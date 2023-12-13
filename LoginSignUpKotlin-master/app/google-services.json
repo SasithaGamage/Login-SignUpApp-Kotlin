@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869892745251",
+    "project_id": "dlg-noti-tester",
+    "storage_bucket": "dlg-noti-tester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869892745251:android:14d9794f9b367ed5a5a996",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaH7tH1dcVAurAVFj0s6c8S8WPoJe5W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869892745251:android:123f8a227cc3add7a5a996",
+        "android_client_info": {
+          "package_name": "com.dialog.noti_tester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaH7tH1dcVAurAVFj0s6c8S8WPoJe5W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
